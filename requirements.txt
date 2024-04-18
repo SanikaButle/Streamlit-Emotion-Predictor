@@ -1,0 +1,14 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+streamlit_option_menu
+datetime
+time
+keras==2.15.0
+tensorflow==2.15.0
+contractions
+nltk
+beautifulsoup4
+scikit-learn
